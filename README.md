@@ -24,17 +24,6 @@
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="60" height="60"/>
    </a>
    </td>
-    <td align="center" width="80">
-   <a href="https://golang.org" target="_blank" rel="noreferrer">
-     <img src="	https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="go" width="60" height="60"/>
-   </a>
-   </td>
-   	</td>
-    <td align="center" width="80">
-   <a href="https://libp2p.io/" target="_blank" rel="noreferrer">
-     <img src="https://libp2p.io/img/logo_small.png" alt="go" width="60" height="60"/>
-   </a>
-   </td>
    <td align="center" width="80">
    <a href="https://graphql.org" target="_blank" rel="noreferrer">
      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="60" height="60"/>
