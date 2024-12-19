@@ -1,4 +1,4 @@
-<h1 align="center">🕐Web | Mobile | AI | Blockchain Developer🕚</h1>
+<h1 align="center">🕐Web | Blockchain Developer🕚</h1>
 <p align="center">
   <img align="center" src="https://github.com/thunderbolt990525/thunderbolt990525/blob/main/logo.jpg?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
